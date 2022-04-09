@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "lodash.shuffle": "^4.2.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "mzara-component": "^1.0.19",
     "mzara-controller": "^1.0.8",
     "mzara-library": "^1.1.1",
